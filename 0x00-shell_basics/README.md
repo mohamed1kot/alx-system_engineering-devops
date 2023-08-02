@@ -1,1 +1,1 @@
-in this file i will explain some of basics about shell lunix
+prints the absolute path name of the current working directory.
