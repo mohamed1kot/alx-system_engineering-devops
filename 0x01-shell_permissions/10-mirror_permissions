@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 454 olleh
+mkdir -m 454 olleh
