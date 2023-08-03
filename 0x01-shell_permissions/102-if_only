@@ -1,2 +1,2 @@
 #!/bin/bash
-[ "$(stat -c '%U' hello)" = "betty" ] [email protected] betty hello
+chown --from=guillaume betty hello
